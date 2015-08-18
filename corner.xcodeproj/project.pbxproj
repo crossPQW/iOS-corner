@@ -14,6 +14,8 @@
 		3822DD211B8334EF00E4ACAC /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3822DD201B8334EF00E4ACAC /* Images.xcassets */; };
 		3822DD241B8334EF00E4ACAC /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3822DD221B8334EF00E4ACAC /* LaunchScreen.xib */; };
 		3822DD301B8334EF00E4ACAC /* cornerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3822DD2F1B8334EF00E4ACAC /* cornerTests.m */; };
+		3822DD3C1B8336A200E4ACAC /* 6RLW6N8F8]JJ)IRS0%N%MP0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3822DD3A1B8336A200E4ACAC /* 6RLW6N8F8]JJ)IRS0%N%MP0.jpg */; };
+		3822DD3D1B8336A200E4ACAC /* WeChat_1439887744.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3822DD3B1B8336A200E4ACAC /* WeChat_1439887744.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +42,8 @@
 		3822DD291B8334EF00E4ACAC /* cornerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cornerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3822DD2E1B8334EF00E4ACAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3822DD2F1B8334EF00E4ACAC /* cornerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = cornerTests.m; sourceTree = "<group>"; };
+		3822DD3A1B8336A200E4ACAC /* 6RLW6N8F8]JJ)IRS0%N%MP0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "6RLW6N8F8]JJ)IRS0%N%MP0.jpg"; sourceTree = "<group>"; };
+		3822DD3B1B8336A200E4ACAC /* WeChat_1439887744.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = WeChat_1439887744.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +85,7 @@
 		3822DD121B8334EF00E4ACAC /* corner */ = {
 			isa = PBXGroup;
 			children = (
+				3822DD391B8336A200E4ACAC /* screenshot */,
 				3822DD171B8334EF00E4ACAC /* AppDelegate.h */,
 				3822DD181B8334EF00E4ACAC /* AppDelegate.m */,
 				3822DD1A1B8334EF00E4ACAC /* ViewController.h */,
@@ -117,6 +122,15 @@
 				3822DD2E1B8334EF00E4ACAC /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3822DD391B8336A200E4ACAC /* screenshot */ = {
+			isa = PBXGroup;
+			children = (
+				3822DD3A1B8336A200E4ACAC /* 6RLW6N8F8]JJ)IRS0%N%MP0.jpg */,
+				3822DD3B1B8336A200E4ACAC /* WeChat_1439887744.jpeg */,
+			);
+			path = screenshot;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -199,8 +213,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3822DD3C1B8336A200E4ACAC /* 6RLW6N8F8]JJ)IRS0%N%MP0.jpg in Resources */,
 				3822DD1F1B8334EF00E4ACAC /* Main.storyboard in Resources */,
 				3822DD241B8334EF00E4ACAC /* LaunchScreen.xib in Resources */,
+				3822DD3D1B8336A200E4ACAC /* WeChat_1439887744.jpeg in Resources */,
 				3822DD211B8334EF00E4ACAC /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
