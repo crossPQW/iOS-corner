@@ -27,7 +27,7 @@ self.blueView.layer.masksToBounds = YES;
     self.blueView.layer.masksToBounds = YES;
 ```
 想要配置某个角为圆角的话,只需要指定对应的`UIRectCorner`即可
-![image](/content/images/2015/08/WeChat_1439887744.jpeg)  
+![image](https://github.com/crossPQW/iOS-corner/blob/master/corner/screenshot/WeChat_1439887744.jpeg)  
 
 以下是显示效果:
-![](/content/images/2015/08/6RLW6N8F8-JJ-IRS0-N-MP0.jpg)
+![](https://github.com/crossPQW/iOS-corner/blob/master/corner/screenshot/6RLW6N8F8%5DJJ)IRS0%25N%25MP0.jpg)
